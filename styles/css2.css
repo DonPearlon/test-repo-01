@@ -1,0 +1,12 @@
+ol.1 {font-family:arial; font-weight:bold; font-size:12pt; color:blue; line-height: 16px}
+ul.1 {font-family:arial; font-weight:bold; font-size:12pt; color:blue; line-height: 16px}
+td {
+	font: italic 12pt verdana;
+}
+
+p1 {font-family:Courier New; font-weight:bold; font-size:18pt; color:blue; line-height: 16px}
+p2 {font-family:Courier New; font-weight:bold; font-size:16pt; color:orange; line-height: 20px}
+p.3 {font-family:Courier New; font-weight:bold; font-size:12pt; color:black; line-height: 16px}
+p.4 {font-family:Courier New; font-weight:bold; font-size:16pt; color:red; line-height: 16px}
+p.5 {font-family:Courier New; font-weight:bold; font-size:16pt; color:black; text-decoration: underline;ine-height: 16px}
+p.6 {font-family:Courier New; font-weight:bold; font-size:20pt; color:black; text-decoration: line-through;ine-height: 16px}
